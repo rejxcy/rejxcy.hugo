@@ -66,9 +66,12 @@ home = ["HTML", "RSS", "Algolia"]
   github         = "https://github.com/rejxcy?tab=repositories"
   
   [[params.friend_link]]
-  title = "friend_link"
-  href =  "https://zhaozhihan.com"
+  title = "jayson"
+  href =  "https://jaysonliang.com/"
 
+  [[params.friend_link]]
+  title = "liyou"
+  href =  "https://liyou-chen.site/"
  
   
   [[params.addtional_menus]]
