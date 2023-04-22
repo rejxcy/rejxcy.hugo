@@ -1,4 +1,4 @@
-baseurl = "https://rejxcy.github.io/MyWebsite/"
+baseurl = "https://rejxcy.github.io/"
 title = "Roy's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "zh-tw"
