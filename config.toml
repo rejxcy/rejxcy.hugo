@@ -30,9 +30,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "IXKA0THBO2"
+  algolia_indexName = "blog_index"
+  algolia_apiKey = "1f1cfece0d709a9535e5ebb19becbbbe"
 
   # Sidebar settings
   sidebar_about_description = "iOS App Developer"
