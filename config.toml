@@ -59,11 +59,11 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = false
   email          = "rejxcy0903@gmail.com"
   linkedin       = "https://www.linkedin.com/in/%E5%BF%97%E9%BE%8D-%E8%83%A1-17b70a273/"
-  stackoverflow  = "https://stackoverflow.com/users/21704431/rejxcy"
   github         = "https://github.com/rejxcy?tab=repositories"
+  cakeresume     = "https://www.cakeresume.com/me/rejxcy"
   
   [[params.friend_link]]
   title = "jayson"
