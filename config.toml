@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/post-bg-coffee.jpeg"
   SEOTitle = "胡志龍"
-  description = "胡志龍，iOS app 開發人員，一個軟體工程師"
+  description = "胡志龍，iOS 開發人員，一個軟體工程師"
   keyword = "胡志龍, Roy, roy, rejxcy, Roy Hu, Roy's Blog, roy's Blog, Roy's, roy's"
   slogan = "輕鬆生活，記錄歷程"
 
@@ -35,7 +35,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "1f1cfece0d709a9535e5ebb19becbbbe"
 
   # Sidebar settings
-  sidebar_about_description = "iOS App Developer"
+  sidebar_about_description = "iOS Developer"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/think.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
