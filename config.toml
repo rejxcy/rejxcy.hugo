@@ -61,7 +61,6 @@ home = ["HTML", "RSS", "Algolia"]
   [params.social]
   rss            = false
   email          = "rejxcy0903@gmail.com"
-  linkedin       = "https://www.linkedin.com/in/%E5%BF%97%E9%BE%8D-%E8%83%A1-17b70a273/"
   github         = "https://github.com/rejxcy?tab=repositories"
   cakeresume     = "https://www.cakeresume.com/me/rejxcy"
   
